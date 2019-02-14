@@ -1,0 +1,26 @@
+{
+    "autoTranslatedSampleApp": {
+        "customer": {
+            "home": {
+                "title": "kunder",
+                "createLabel": "Create a new kunde",
+                "createOrEditLabel": "Create or edit a kunde"
+            },
+            "created": "A new kunde is created with identifier {{ param }}",
+            "updated": "A kunde is updated with identifier {{ param }}",
+            "deleted": "A kunde is deleted with identifier {{ param }}",
+            "delete": {
+                "question": "Are you sure you want to delete kunde {{ id }}?"
+            },
+            "detail": {
+                "title": "Kunde"
+            },
+            "firstName": "Fornavn",
+            "lastName": "Efternavn",
+            "email": "E-mail",
+            "telephone": "Telefon",
+            "wishList": "Ønskeseddel",
+            "address": "Adresse"
+        }
+    }
+}

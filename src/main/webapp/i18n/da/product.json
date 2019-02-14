@@ -1,0 +1,28 @@
+{
+    "autoTranslatedSampleApp": {
+        "product": {
+            "home": {
+                "title": "Produkter",
+                "createLabel": "Create a new produkt",
+                "createOrEditLabel": "Create or edit a produkt"
+            },
+            "created": "A new produkt is created with identifier {{ param }}",
+            "updated": "A produkt is updated with identifier {{ param }}",
+            "deleted": "A produkt is deleted with identifier {{ param }}",
+            "delete": {
+                "question": "Are you sure you want to delete produkt {{ id }}?"
+            },
+            "detail": {
+                "title": "Produkt"
+            },
+            "title": "Titel",
+            "keywords": "nøgleord",
+            "description": "Beskrivelse",
+            "rating": "Bedømmelse",
+            "dateAdded": "dato tilføjet",
+            "dateModified": "Dato ændret",
+            "wishList": "Ønskeseddel",
+            "category": "Kategori"
+        }
+    }
+}

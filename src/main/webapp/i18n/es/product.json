@@ -1,0 +1,28 @@
+{
+    "autoTranslatedSampleApp": {
+        "product": {
+            "home": {
+                "title": "Productos",
+                "createLabel": "Crear nuevo producto",
+                "createOrEditLabel": "Crear o editar producto"
+            },
+            "created": "Un nuevo producto ha sido creado con el identificador {{ param }}",
+            "updated": "Un producto ha sido actualizado con el identificador {{ param }}",
+            "deleted": "Un producto ha sido eliminado con el identificador {{ param }}",
+            "delete": {
+                "question": "¿Seguro que quiere eliminar producto {{ id }}?"
+            },
+            "detail": {
+                "title": "Producto"
+            },
+            "title": "Título",
+            "keywords": "Palabras clave",
+            "description": "Descripción",
+            "rating": "Clasificación",
+            "dateAdded": "Fecha Agregada",
+            "dateModified": "Fecha modificada",
+            "wishList": "Lista de deseos",
+            "category": "Categoría"
+        }
+    }
+}

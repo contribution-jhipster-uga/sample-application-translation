@@ -1,0 +1,27 @@
+{
+    "autoTranslatedSampleApp": {
+        "category": {
+            "home": {
+                "title": "Kategorier",
+                "createLabel": "Create a new kategori",
+                "createOrEditLabel": "Create or edit a kategori"
+            },
+            "created": "A new kategori is created with identifier {{ param }}",
+            "updated": "A kategori is updated with identifier {{ param }}",
+            "deleted": "A kategori is deleted with identifier {{ param }}",
+            "delete": {
+                "question": "Are you sure you want to delete kategori {{ id }}?"
+            },
+            "detail": {
+                "title": "Kategori"
+            },
+            "description": "Beskrivelse",
+            "sortOrder": "Sorteringsrækkefølge",
+            "dateAdded": "dato tilføjet",
+            "dateModified": "Dato ændret",
+            "status": "status",
+            "parent": "Forældre",
+            "product": "Produkt"
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "autoTranslatedSampleApp": {
+        "wishList": {
+            "home": {
+                "title": "Listas de deseos",
+                "createLabel": "Crear nuevo Wish List",
+                "createOrEditLabel": "Crear o editar Wish List"
+            },
+            "created": "Un nuevo Wish List ha sido creado con el identificador {{ param }}",
+            "updated": "Un Wish List ha sido actualizado con el identificador {{ param }}",
+            "deleted": "Un Wish List ha sido eliminado con el identificador {{ param }}",
+            "delete": {
+                "question": "¿Seguro que quiere eliminar Wish List {{ id }}?"
+            },
+            "detail": {
+                "title": "Lista de deseos"
+            },
+            "title": "Título",
+            "restricted": "Restringido",
+            "product": "Producto",
+            "customer": "Cliente"
+        }
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "autoTranslatedSampleApp": {
+        "address": {
+            "home": {
+                "title": "Direcciones",
+                "createLabel": "Crear nuevo dirección",
+                "createOrEditLabel": "Crear o editar dirección"
+            },
+            "created": "Un nuevo dirección ha sido creado con el identificador {{ param }}",
+            "updated": "Un dirección ha sido actualizado con el identificador {{ param }}",
+            "deleted": "Un dirección ha sido eliminado con el identificador {{ param }}",
+            "delete": {
+                "question": "¿Seguro que quiere eliminar dirección {{ id }}?"
+            },
+            "detail": {
+                "title": "Dirección"
+            },
+            "address1": "Dirección 1",
+            "address2": "Dirección 2",
+            "city": "Ciudad",
+            "postcode": "Código postal",
+            "country": "País",
+            "customer": "Cliente"
+        }
+    }
+}

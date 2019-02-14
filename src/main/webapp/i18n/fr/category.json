@@ -1,0 +1,27 @@
+{
+    "autoTranslatedSampleApp": {
+        "category": {
+            "home": {
+                "title": "Les catégories",
+                "createLabel": "Créer un nouveau Catégorie",
+                "createOrEditLabel": "Créer ou éditer un Catégorie"
+            },
+            "created": "Un nouveau Catégorie a été créé avec l'identifiant {{ param }}",
+            "updated": "Le Catégorie avec l'identifiant {{ param }} a été mis à jour",
+            "deleted": "Le Catégorie avec l'identifiant {{ param }} a été supprimé",
+            "delete": {
+                "question": "Etes-vous certain de vouloir supprimer le Catégorie {{ id }} ?"
+            },
+            "detail": {
+                "title": "Catégorie"
+            },
+            "description": "La description",
+            "sortOrder": "Ordre de tri",
+            "dateAdded": "date ajoutée",
+            "dateModified": "Date modifiée",
+            "status": "Statut",
+            "parent": "Parent",
+            "product": "Produit"
+        }
+    }
+}

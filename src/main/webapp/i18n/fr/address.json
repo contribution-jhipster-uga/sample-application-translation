@@ -1,0 +1,26 @@
+{
+    "autoTranslatedSampleApp": {
+        "address": {
+            "home": {
+                "title": "Adresses",
+                "createLabel": "Créer un nouveau adresse",
+                "createOrEditLabel": "Créer ou éditer un adresse"
+            },
+            "created": "Un nouveau adresse a été créé avec l'identifiant {{ param }}",
+            "updated": "Le adresse avec l'identifiant {{ param }} a été mis à jour",
+            "deleted": "Le adresse avec l'identifiant {{ param }} a été supprimé",
+            "delete": {
+                "question": "Etes-vous certain de vouloir supprimer le adresse {{ id }} ?"
+            },
+            "detail": {
+                "title": "Adresse"
+            },
+            "address1": "Adresse 1",
+            "address2": "Adresse 2",
+            "city": "Ville",
+            "postcode": "Code postal",
+            "country": "Pays",
+            "customer": "Client"
+        }
+    }
+}

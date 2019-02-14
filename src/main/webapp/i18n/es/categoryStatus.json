@@ -1,0 +1,10 @@
+{
+    "autoTranslatedSampleApp": {
+        "CategoryStatus": {
+            "null": "",
+            "AVAILABLE": "DISPONIBLE",
+            "RESTRICTED": "RESTRINGIDO",
+            "DISABLED": "DISCAPACITADO"
+        }
+    }
+}

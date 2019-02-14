@@ -1,0 +1,26 @@
+{
+    "autoTranslatedSampleApp": {
+        "customer": {
+            "home": {
+                "title": "Les clients",
+                "createLabel": "Créer un nouveau client",
+                "createOrEditLabel": "Créer ou éditer un client"
+            },
+            "created": "Un nouveau client a été créé avec l'identifiant {{ param }}",
+            "updated": "Le client avec l'identifiant {{ param }} a été mis à jour",
+            "deleted": "Le client avec l'identifiant {{ param }} a été supprimé",
+            "delete": {
+                "question": "Etes-vous certain de vouloir supprimer le client {{ id }} ?"
+            },
+            "detail": {
+                "title": "Client"
+            },
+            "firstName": "Prénom",
+            "lastName": "Nom de famille",
+            "email": "Email",
+            "telephone": "Téléphone",
+            "wishList": "Liste de souhaits",
+            "address": "Adresse"
+        }
+    }
+}

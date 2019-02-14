@@ -1,0 +1,26 @@
+{
+    "autoTranslatedSampleApp": {
+        "address": {
+            "home": {
+                "title": "Adresser",
+                "createLabel": "Create a new adresse",
+                "createOrEditLabel": "Create or edit a adresse"
+            },
+            "created": "A new adresse is created with identifier {{ param }}",
+            "updated": "A adresse is updated with identifier {{ param }}",
+            "deleted": "A adresse is deleted with identifier {{ param }}",
+            "delete": {
+                "question": "Are you sure you want to delete adresse {{ id }}?"
+            },
+            "detail": {
+                "title": "Adresse"
+            },
+            "address1": "adresse 1",
+            "address2": "Adresse 2",
+            "city": "by",
+            "postcode": "Postnummer",
+            "country": "Land",
+            "customer": "Kunde"
+        }
+    }
+}
